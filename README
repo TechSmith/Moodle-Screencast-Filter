@@ -1,0 +1,7 @@
+Moodle-Screencast-Filter
+
+Description:
+This is a text filter for Moodle that converts Screencast.com urls into embeded content.  The current text filter will only replace hyperlinks with the embeded content.  This only works for video short urls.
+
+Installation:
+Download the .zip file and unzip the "screencast" folder to the moodle/filter folder on the Moodle server.
