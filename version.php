@@ -24,8 +24,8 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version   = 2012020203;        // The current plugin version (Date: YYYYMMDDXX)
-$plugin->requires  = 2010112400;        // Requires this Moodle version
-$plugin->component = 'filter_screencast'; // Full name of the plugin (used for diagnostics)
+$plugin->version   = 2012031301;
+$plugin->requires  = 2010112400;
+$plugin->component = 'filter_screencast';
 $plugin->maturity = MATURITY_BETA;
-$plugin->release = 'Screencast Filter (Build: 2012020203)';
+$plugin->release = 'Screencast Filter (Build: 2012031301)';
